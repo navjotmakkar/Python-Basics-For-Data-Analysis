@@ -1,2 +1,2 @@
-# Python-Basics-For-Datascience
-This repository contain examples to get started with python for datascience.
+# Python-Basics-For-Data-Analysis
+This repository contain examples to get started with python for data analysis.
